@@ -80,9 +80,8 @@ The project uses The Movie Database (TMDB) API to fetch:
 ## Deployment
 Deployed using Firebase Hosting at [https://moltovstream.web.app/](https://moltovstream.web.app/)
 
-## Creators
+## Creator
 - SUDHARSANA SARAVANAN S
-- SWETHA C
 
 ## Future Enhancements
 - Add user authentication
