@@ -26,7 +26,6 @@ function App() {
       <footer className="app__footer">
         <p>© 2024 MOLTOV. All Rights Reserved.</p>
         <p></p>
-        <p>SUDHARSANA SARAVANAN S - SWETHA C</p>
       </footer>
     </div>
   );
