@@ -23,10 +23,10 @@ function App() {
       <Row title="Romance Movies" fetchUrl={requests.fetchRomanceMovies} />
       <Row title="Documentaries" fetchUrl={requests.fetchDocumentaries} />
 
-      <footer className="app__footer">
-        <p>© 2024 MOLTOV. All Rights Reserved.</p>
-        <p></p>
-      </footer>
+<footer className="app__footer">
+  <p></p>
+  <center><p>© 2024 MOLTOV. All Rights Reserved.</p></center>
+</footer>
     </div>
   );
 }
