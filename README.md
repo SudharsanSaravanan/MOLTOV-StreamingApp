@@ -78,7 +78,7 @@ The project uses The Movie Database (TMDB) API to fetch:
 - Original Series
 
 ## Deployment
-Deployed using Firebase Hosting at [https://moltovstream.web.app/](https://moltovstream.firebaseapp.com/)
+Deployed using Firebase Hosting at [https://moltovstream.firebaseapp.com/](https://moltovstream.firebaseapp.com/)
 
 ## Creator
 - SUDHARSANA SARAVANAN S
@@ -100,6 +100,6 @@ Distributed under the MIT License.
 5. Open a Pull Request
 
 ## Contact
-Project Link: [https://moltovstream.web.app/](https://moltovstream.firebaseapp.com/)
+Project Link: [https://moltovstream.firebaseapp.com/](https://moltovstream.firebaseapp.com/)
 
 **Happy Streaming! 🍿🎥**
