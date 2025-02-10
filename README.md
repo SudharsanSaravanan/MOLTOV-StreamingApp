@@ -4,7 +4,7 @@
 🌐 [Moltov Stream](https://moltovstream.firebaseapp.com/)
 
 ## Project Overview
-Moltov is a Netflix-like streaming platform clone that provides users with a dynamic and engaging movie browsing experience. The application fetches real-time movie data from The Movie Database (TMDB) API and presents it in an intuitive, visually appealing interface.
+Moltov is a Netflix-like streaming platform that provides users with a dynamic and engaging movie browsing experience. The application fetches real-time movie data from The Movie Database (TMDB) API and presents it in an intuitive, visually appealing interface.
 
 ## 🌟 Features
 - Dynamic movie rows categorized by genre
