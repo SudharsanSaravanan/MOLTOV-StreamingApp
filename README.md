@@ -1,7 +1,6 @@
 # Moltov Streaming Platform 🍿
 
-## Live Demo
-[Moltov Stream](https://moltovstream.firebaseapp.com/)
+Live Demo - [Moltov Stream](https://moltovstream.firebaseapp.com/)
 
 ## Project Overview
 Moltov is a streaming platform that provides users with a dynamic and engaging movie browsing experience. The application fetches real-time movie data from The Movie Database (TMDB) API and presents it in an intuitive, visually appealing interface.
